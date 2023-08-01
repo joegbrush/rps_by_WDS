@@ -41,5 +41,6 @@ color: #333
 
 .result-selection.winner {
     opacity: 1;
-    font-size: 3.5rem;
+    font-size: 4rem;
+    border: 1pc solid #ccc
 }
